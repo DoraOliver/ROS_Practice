@@ -1,0 +1,8 @@
+prefix=/home/doraoliver/DEMO04_WS_r/devel
+
+Name: tf04_turtles
+Description: Description of tf04_turtles
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

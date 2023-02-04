@@ -1,0 +1,2 @@
+rosbag_demo:tf01_static:tf02_dynamic:tf03_tfs:tf04_turtles
+-DCATKIN_DEVEL_PREFIX=/home/doraoliver/DEMO04_WS_r/devel -DCMAKE_INSTALL_PREFIX=/home/doraoliver/DEMO04_WS_r/install -G Unix Makefiles

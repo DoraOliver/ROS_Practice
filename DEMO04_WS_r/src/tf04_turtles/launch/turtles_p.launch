@@ -1,0 +1,11 @@
+<launch>
+    <node pkg="turtlesim" type="turtlesim_node" name="turtle1" output="screen" />
+    <node pkg="turtlesim" type="turtle_teleop_key" name="key_control" output="screen"/>
+
+    <node pkg="tf04_turtles" type="turtle_spawn_p.py" name="turtle_spawn" output="screen"/>
+
+    <node pkg="tf04_turtles" type="turtle_tf_pub_p.py" name="tf_pub1" args="turtle1" output="screen"/>
+    <node pkg="tf04_turtles" type="turtle_tf_pub_p.py" name="tf_pub2" args="turtle2" output="screen"/>
+    <node pkg="tf04_turtles" type="turtle_tf_control_turtle2_p.py" name="control" output="screen"/>
+
+</launch>

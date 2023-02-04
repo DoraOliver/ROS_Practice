@@ -1,0 +1,2 @@
+launch01_basic:plumbing_apis:plumbing_head:plumbing_my:plumbing_param_server:plumbing_pub_sub:plumbing_server_client:plumbing_test
+-DCATKIN_DEVEL_PREFIX=/home/doraoliver/DEMO03_WS/devel -DCMAKE_INSTALL_PREFIX=/home/doraoliver/DEMO03_WS/install -G Unix Makefiles

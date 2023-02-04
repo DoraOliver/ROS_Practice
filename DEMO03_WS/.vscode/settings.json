@@ -1,0 +1,35 @@
+{
+  "python.autoComplete.extraPaths": [
+    "/opt/ros/noetic/lib/python3/dist-packages",
+    "/home/doraoliver/Documents/NRP/GazeboRosPackages/devel/lib/python3.8/dist-packages",
+    "/home/doraoliver/Documents/NRP/CLE/hbp_nrp_cle",
+    "/home/doraoliver/Documents/NRP/ExperimentControl/hbp_nrp_excontrol",
+    "/home/doraoliver/Documents/NRP/ExDBackend/hbp_nrp_backend",
+    "/home/doraoliver/Documents/NRP/ExDBackend/hbp_nrp_cleserver",
+    "/home/doraoliver/Documents/NRP/ExDBackend/hbp_nrp_commons",
+    "/home/doraoliver/Documents/NRP/ExDBackend/hbp_nrp_watchdog",
+    "/home/doraoliver/Documents/NRP/ExDBackend/hbp-flask-restful-swagger-master",
+    "/home/doraoliver/Documents/NRP/VirtualCoach/hbp_nrp_virtual_coach",
+    "/home/doraoliver/Documents/NRP/BrainSimulation/hbp_nrp_distributed_nest",
+    "/home/doraoliver/.local/lib/python3.8/site-packages",
+    "/home/doraoliver/.local/lib/x86_64-linux-gnu/python3.8/site-packages",
+    "/home/doraoliver/DEMO03_WS/devel/lib/python3/dist-packages"
+  ],
+  "python.analysis.extraPaths": [
+    "/opt/ros/noetic/lib/python3/dist-packages",
+    "/home/doraoliver/Documents/NRP/GazeboRosPackages/devel/lib/python3.8/dist-packages",
+    "/home/doraoliver/Documents/NRP/CLE/hbp_nrp_cle",
+    "/home/doraoliver/Documents/NRP/ExperimentControl/hbp_nrp_excontrol",
+    "/home/doraoliver/Documents/NRP/ExDBackend/hbp_nrp_backend",
+    "/home/doraoliver/Documents/NRP/ExDBackend/hbp_nrp_cleserver",
+    "/home/doraoliver/Documents/NRP/ExDBackend/hbp_nrp_commons",
+    "/home/doraoliver/Documents/NRP/ExDBackend/hbp_nrp_watchdog",
+    "/home/doraoliver/Documents/NRP/ExDBackend/hbp-flask-restful-swagger-master",
+    "/home/doraoliver/Documents/NRP/VirtualCoach/hbp_nrp_virtual_coach",
+    "/home/doraoliver/Documents/NRP/BrainSimulation/hbp_nrp_distributed_nest",
+    "/home/doraoliver/.local/lib/python3.8/site-packages",
+    "/home/doraoliver/.local/lib/x86_64-linux-gnu/python3.8/site-packages",
+    "/home/doraoliver/DEMO03_WS/devel/lib/python3/dist-packages"
+  ],
+  "ros.distro": "noetic"
+}
